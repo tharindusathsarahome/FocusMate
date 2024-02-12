@@ -25,6 +25,10 @@ Pomodoro Face Recognition is a specialized Pomodoro clock that enhances producti
 
 - **Sleepiness Detection:** The system detects signs of sleepiness and activates an alarm to alert the user, encouraging them to stay focused and engaged.
 
+## Project History
+
+This project, developed in 2021, serves as a personal initiative to enhance productivity using a unique approach to the Pomodoro technique. 
+
 ## Prerequisites
 
 - Python 3.7
