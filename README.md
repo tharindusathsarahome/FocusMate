@@ -1,4 +1,3 @@
-```markdown
 # FocusMate: Smart Pomodoro Clock with Face Recognition and Productivity Enhancements
 
 ![Project Image](https://wethegeek.com/wp-content/uploads/2019/10/pomodoro-technique.png)
@@ -77,7 +76,3 @@ IntervalTime = 300   # 5 minutes in seconds
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
-Feel free to modify or add any additional details based on your project's specific requirements.
