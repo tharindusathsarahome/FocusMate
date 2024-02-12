@@ -38,8 +38,8 @@ Pomodoro Face Recognition is a specialized Pomodoro clock that enhances producti
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/pomodoro-face-recognition.git
-    cd pomodoro-face-recognition
+    git clone https://github.com/tharindusathsarahome/FocusMate.git
+    cd FocusMate
     ```
 
 2. Install dependencies:
@@ -55,13 +55,13 @@ Pomodoro Face Recognition is a specialized Pomodoro clock that enhances producti
 To run the Pomodoro Face Recognition clock, use the following command:
 
 ```bash
-python pomodoro_face_recognition.py
+python main.py
 ```
 
 Specify the `-w` or `--window` flag to display the camera window:
 
 ```bash
-python pomodoro_face_recognition.py -w True
+python main.py -w True
 ```
 
 ## Configuration
@@ -72,7 +72,3 @@ Adjust the Pomodoro and Interval times in the script according to your preferenc
 PomodoroTime = 1500  # 25 minutes in seconds
 IntervalTime = 300   # 5 minutes in seconds
 ```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
