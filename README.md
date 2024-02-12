@@ -1,6 +1,6 @@
 # FocusMate: Smart Pomodoro Clock with Face Recognition and Productivity Enhancements
 
-![Project Image](https://wethegeek.com/wp-content/uploads/2019/10/pomodoro-technique.png)
+![Project Image](https://raw.githubusercontent.com/tharindusathsarahome/tharindusathsarahome/main/FocusMate/pomodoro-technique.png)
 
 ## Table of Contents
 
